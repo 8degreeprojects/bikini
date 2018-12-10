@@ -4,4 +4,4 @@
 #### It is otherwise recommended that you copy from the "Use this URL in production" textbox as it directly links to the CDN
 
 #### Please note that this codebase is provided as is by Dynamo Ltd to support the website functions of https://ulookhotinbikini.com whose frontend UI/UX html design resides in webflow.com and has been tested and proven to be working as scoped as at 10th December, 2018
-#### The responsibility of the above functionality now lies with the owner of the repository.
+#### The responsibility of the above functionality as well as that defined by the design in Webflow now lies with the owner of this repository.
